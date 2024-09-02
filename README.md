@@ -1,2 +1,2 @@
-This is the description of my repo
+This is the descriptions of my repo
 Modification in main branch.
